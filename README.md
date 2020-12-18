@@ -14,4 +14,7 @@ Press Enter and type $run
 # "How do I remove previous code?"
 Press Enter and type $clear
 
+# "Can I use node modules?"
+Yes,move the file eval.js to a folder which has the node modules in it,then copy the path for the eval.js and open the eval.bat and change node eval.js to node <your path here>.Then require() the modules like u normally do
+
 # To see all the commands,just type $help
